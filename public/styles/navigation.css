@@ -23,6 +23,13 @@ main {
   font-size: 2rem;
 }
 
+#logo span {
+  color: var(--color-primary-100);
+}
+
+#logo p {
+  margin: 0;
+}
 #main-header nav {
   display: none;
 }
