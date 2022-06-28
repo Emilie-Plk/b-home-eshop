@@ -1,4 +1,4 @@
-- pouvoir choisir nb articles sur page articles
+- pouvoir choisir nb articles sur page articles (compliqué)
 
 - add a 'Hello, admin/name' in the nav bar
 - when we log out: redirect 
