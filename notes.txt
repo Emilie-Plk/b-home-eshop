@@ -1,8 +1,7 @@
-- pouvoir choisir nb articles sur page articles (compliqué)
-
-- add a 'Hello, admin/name' in the nav bar
-- when we log out: redirect 
-- when we click on the pic product: open it large on a new tab
-- add a remove btn in the cart item
-- in order management: add a helper to select all orders for a given customer
-- message to say cart has been updated
+- select item quantity in the article page;
+- add a 'Hello, admin/name' in the nav bar;
+- when we log out: redirect;
+- when we click on the pic product: open it large on a new tab;
+- add a remove btn in the cart item;
+- in order management: add a helper to select all orders for a given customer;
+- message to say cart has been updated;
